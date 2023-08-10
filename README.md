@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im currently going to BLoomtech to be a software engineer.
-I have learned how to use JavaScript, CSS, HTML, and React..
-I have started a project to work on that I add to as I work thru each course.
-Fun Fact!! The project I'm currently working on is a web page for a restraunt in my town named "The COuntry Cafe in the Cellar."
-My pronouns are her/she.
+
+<h1><i>Hi I'm Megan!</i></h1>
+<p>Im currently going to BLoomtech to be a software engineer.<br>
+I have learned how to use JavaScript, CSS, HTML, and React..<br>
+I have started a project to work on that I add to as I work thru each course.<br>
+Fun Fact!! The project I'm currently working on is a web page for a restraunt in my town named "The Country Cafe in the Cellar."<br>
+My pronouns are her/she.<br></p>
 You can reach me via email: huckabay90@gmail.com or on my LinkedIn.
