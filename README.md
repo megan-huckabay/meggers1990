@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1><i>Hi I'm Megan!</i></h1>
+<p>My pronouns are her/she.<br></p>
 <p>Im currently going to BLoomtech to be a software engineer.<br>
 I have learned how to use JavaScript, CSS, HTML, and React..<br>
 I have started a project to work on that I add to as I work thru each course.<br>
-Fun Fact!! The project I'm currently working on is a web page for a restraunt in my town named "The Country Cafe in the Cellar."<br>
-My pronouns are her/she.<br></p>
-You can reach me via email: huckabay90@gmail.com or on my LinkedIn.
+Fun Fact!! The project I'm currently working on is a web page for my dream of owning my own Grilled Cheese Food Truck <b><h3>"A Cheesy Situation"</h3></b>This web application consist of the JavaScipt Langage Html/Css<br>Also I've started to incorporated React, react-router, axios, and yup.<br>As of now its not fully functional but I've wrote most the codes for a homepage and menus<br>With one menu being a build your own with choices ranging from breads cheesses and additional toppings.<br> This project also will have a mmenu for specialty grilled creations.</p>
+
+You can reach me via email: huckabay90@gmail.com or on my LinkedIn www.linkedin.com/in/megan-huckabay
